@@ -12,3 +12,4 @@ Gudiingjie10
 123
 new_branch
 Test. 本地分支在new_branch   使用git push origin master 会怎样
+Test. 本地分支在master。 使用git push origin new_branch 会怎样
