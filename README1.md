@@ -15,4 +15,5 @@ Test. 本地分支在new_branch   使用git push origin master 会怎样
 Test. 本地分支在master。 使用git push origin new_branch 会怎样
 
 git push
-insert vim 
+insert vim
+test up 
